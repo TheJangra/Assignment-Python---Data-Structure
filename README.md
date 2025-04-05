@@ -53,6 +53,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+> Made with ❤️ by [TheJangra](https://github.com/TheJangra)
+
+
+---
+
 ## 🙌 Contributions
 
 Feel free to fork the repo and suggest improvements or add new exercises!
